@@ -1,0 +1,5 @@
+Origine,Destination,TarifMinimum,TarifMaximum,TarifMoyen
+CDG,EWR,375.15,635.22,508.91
+CDG,JFK,370.31,635.22,503.85
+CDG,LGA,375.15,640.14,508.72
+ORY,JFK,369.99,632.70,504.99
